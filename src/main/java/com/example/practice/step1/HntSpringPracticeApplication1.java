@@ -1,8 +1,8 @@
-package com.example.hntspringpractice;
+package com.example.practice.step1;
 
 import org.springframework.context.support.GenericApplicationContext;
 
-public class HntSpringPracticeApplication {
+public class HntSpringPracticeApplication1 {
 
     public static void main(String[] args) {
         // ApplicationContext 생성 및 초기화.
