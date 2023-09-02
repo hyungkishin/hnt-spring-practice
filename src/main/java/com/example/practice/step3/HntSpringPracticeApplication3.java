@@ -7,7 +7,7 @@ public class HntSpringPracticeApplication3 {
 
     public static void main(String[] args) {
         // CustomMyApplicationContext 초기화
-        CustomMyApplicationContext context = new CustomMyApplicationContext("com.example.practice.step3.service");
+        CustomMyApplicationContext context = new CustomMyApplicationContext("com.example.practice.step3");
 
         HelloWorldService helloWorldService = context.getBean(HelloWorldService.class);
         helloWorldService.sayHello();
