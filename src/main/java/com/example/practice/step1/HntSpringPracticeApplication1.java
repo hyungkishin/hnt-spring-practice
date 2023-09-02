@@ -12,7 +12,7 @@ public class HntSpringPracticeApplication1 {
         context.registerBean("helloWorldService", HelloWorldService.class, HelloWorldService::new);
 
         // 빈 등록을 완료하기 위해 ApplicationContext 를 갱신한다.
-        //  Spring 컨텍스트는 빈의 등록과 초기화를 완료하고, 애플리케이션에서 이를 올바르게 사용할 준비를 마치게 된다고 한다.
+        // refresh : Spring 컨텍스트는 빈의 등록과 초기화를 완료하고, 애플리케이션에서 이를 올바르게 사용할 준비를 마치게 된다고 한다.
         context.refresh();
 
         // 컨텍스트에서 등록했던 빈을 가져온다.
