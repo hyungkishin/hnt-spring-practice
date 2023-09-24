@@ -1,4 +1,4 @@
-package com.example.practice.step2;
+package com.example.practice.practiceOne.step2;
 
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider;

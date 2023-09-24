@@ -1,8 +1,5 @@
-package com.example.practice.step3.service;
+package com.example.practice.practiceOne.step2;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class HelloWorldService {
 
     public void sayHello() {
