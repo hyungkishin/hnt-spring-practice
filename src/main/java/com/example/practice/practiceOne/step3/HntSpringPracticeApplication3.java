@@ -1,7 +1,7 @@
-package com.example.practice.step3;
+package com.example.practice.practiceOne.step3;
 
-import com.example.practice.step3.config.CustomMyApplicationContext;
-import com.example.practice.step3.service.HelloWorldService;
+import com.example.practice.practiceOne.step3.config.CustomMyApplicationContext;
+import com.example.practice.practiceOne.step3.service.HelloWorldService;
 
 public class HntSpringPracticeApplication3 {
 

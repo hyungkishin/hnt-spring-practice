@@ -1,4 +1,4 @@
-package com.example.practice.step1;
+package com.example.practice.practiceOne.step1;
 
 import org.springframework.context.support.GenericApplicationContext;
 

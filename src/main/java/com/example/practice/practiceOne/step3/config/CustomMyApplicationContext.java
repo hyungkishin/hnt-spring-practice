@@ -1,4 +1,4 @@
-package com.example.practice.step3.config;
+package com.example.practice.practiceOne.step3.config;
 
 import org.springframework.stereotype.Component;
 
